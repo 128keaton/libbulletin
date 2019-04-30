@@ -1,5 +1,5 @@
 GO_EASY_ON_ME=1
-include theos/makefiles/common.mk
+include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = libbulletin
 libbulletin_FILES = libbulletin.xm
